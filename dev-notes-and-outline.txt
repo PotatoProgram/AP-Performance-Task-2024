@@ -3,7 +3,7 @@ this does not get referenced anywhere else in the repo and only serves to archiv
 
 card creator
 - a card has 2 components: energy cost, actions
-- cards also have properties: deck color (card color), and card modifiers (which change how the card is handled when not in the user's hand
+- cards also have properties: deck color (card color), and card modifiers (which change how the card is handled when not in the user's hand)
 when user indicates they are done making cards, generate a random set of 5 cards, taking into account card modifiers:
 - bouyant cards are drawn first
 - exhaustive cards cannot be drawn twice
